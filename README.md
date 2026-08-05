@@ -44,14 +44,14 @@
 
 <div align="center">
 
-<!-- Glowing 3D Skill Icons for Node.js, Next.js, Python, Git -->
+<!-- Interactive Glowing 3D Skill Icons Grid -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 <br><br>
 
-<!-- High-Contrast Badges -->
+<!-- Shields Badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
