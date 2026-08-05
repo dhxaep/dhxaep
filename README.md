@@ -116,13 +116,17 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <br>
 
-<!-- Customized Bottom GIF with Dynamic Pixel Typing Date/Timestamp -->
+<!-- Visitor Count & Dynamic Date Footer -->
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="450" alt="Pixel Terminal HiTech Navigation" />
+<p><strong>Visitor's Count</strong></p>
+
+<a href="https://github.com/journey-ad/Moe-Counter">
+  <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Visitor's Count" />
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=50&lines=%3E+SYSTEM+SHUTDOWN...;%3E+LAST+SESSION%3A+05+August+2026;%3E+DATE%3A+05%2F08%2F2026+%7C+STATUS%3A+ACTIVE" alt="Dynamic Date Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=50&lines=%3E+LAST+SESSION%3A+05+August+2026;%3E+DATE%3A+05%2F08%2F2026+%7C+STATUS%3A+ACTIVE;%3E+SYSTEM+SHUTDOWN... GAME OVER" alt="Dynamic Date Typing SVG" />
 
 </div>
