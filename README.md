@@ -32,24 +32,34 @@
 
 <table width="100%" style="border-collapse: collapse; font-family: 'Courier New', monospace; font-weight: bold; color: #000; text-align: center;">
   <tr>
-    <td width="35%" align="center" style="padding: 10px; border-bottom: 2px solid #000;">👤 NAME</td>
+    <td width="35%" align="center" style="padding: 10px; border-bottom: 2px solid #000;">
+      <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="22" valign="middle" /> NAME
+    </td>
     <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Dhafa Achmad Ghifari</td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🎓 EDUCATION</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">
+      <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="22" valign="middle" /> EDUCATION
+    </td>
     <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">S1 Informatika — UPN "Veteran" Jakarta</td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🛠️ ROLE</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">
+      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="22" valign="middle" /> ROLE
+    </td>
     <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Bot Architect & Full-Stack Developer</td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🎯 FOCUS</td>
-    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Software Engineering, AI & Cyber Security</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">
+      <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="22" valign="middle" /> FOCUS
+    </td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">When Not Sleepy</td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">⚡ STATUS</td>
-    <td align="center" style="padding: 10px;"><span style="background: #000; color: #00FF41; padding: 4px 10px;">● ONLINE & BUILDING 24/7</span></td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="22" valign="middle" /> STATUS
+    </td>
+    <td align="center" style="padding: 10px;"><span style="background: #000; color: #00FF41; padding: 4px 10px;">● Still Learning</span></td>
   </tr>
 </table>
 
@@ -65,18 +75,14 @@
 
 <div align="center">
 
-<!-- 3D Skill Icons Grid (4 Tech Stack Only) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
-</a>
-
-<br><br>
-
-<!-- Shields Badges -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" />
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="65" />
 
 </div>
 
@@ -132,6 +138,9 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <a href="https://t.me/dhgfr_"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://dhtools.dhgfr.my.id"><img src="https://img.shields.io/badge/DHTools-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="https://portofolio.dhgfr.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://saweria.co/dhgfr"><img src="https://img.shields.io/badge/Support_on_Saweria-FFC107?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
+</div>
 
 <br>
 
