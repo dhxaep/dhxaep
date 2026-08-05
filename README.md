@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Pixel Art Banner Header -->
+<!-- Pixel Art Header Banner -->
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff" width="100%" alt="Cyberpunk Pixel Banner" style="border: 4px solid #000;" />
 
 <br><br>
@@ -44,14 +44,22 @@
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+<!-- Interactive Glowing 3D Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,nextjs,py,express,react,tailwind,git,vscode,docker,linux,github,vercel&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br><br>
+
+<!-- Categorized High-Contrast Shields Badges -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=2B037A)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
@@ -71,7 +79,7 @@ Includes custom economy mechanics, pet/gacha systems, canvas-rendered games (*Th
 
 ### 🛠️ DHTools
 Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platform media downloaders.  
-👉 [`dhgfrtools.netlify.app`](https://dhgfrtools.netlify.app)
+👉 [`dhtools.dhgfr.my.id`](https://dhtools.dhgfr.my.id)
 
 <br>
 
@@ -104,19 +112,21 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <div align="center">
 
-<a href="https://t.me/dhgfr_"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
+<a href="https://t.me/dhgfr_"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://dhtools.dhgfr.my.id"><img src="https://img.shields.io/badge/DHTools-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="https://portofolio.dhgfr.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br>
 
+<!-- Customized Bottom GIF with Dynamic Pixel Typing Date/Timestamp -->
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="450" alt="Pixel Terminal HiTech Navigation" />
 
 <br><br>
 
-<sub>`> SYSTEM SHUTDOWN // GAME OVER`</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=50&lines=%3E+SYSTEM+SHUTDOWN...;%3E+LAST+SESSION%3A+05+August+2026;%3E+DATE%3A+05%2F08%2F2026+%7C+STATUS%3A+ACTIVE" alt="Dynamic Date Typing SVG" />
 
 </div>
