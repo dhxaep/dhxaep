@@ -141,6 +141,11 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <p><strong>Visitor's Count</strong></p>
 
 <a href="https://github.com/journey-ad/Moe-Counter">
-  <img src="https://count.getloli.com/get/@dhxaep" alt="Visitor's Count" />
+  <img src="https://count.getloli.com/@dhxaep" alt="Visitor's Count" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=dhxaep&color=00ff41&style=for-the-badge" alt="Profile Views" />
+
 </div>
