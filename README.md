@@ -84,6 +84,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" />
 <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="65" />
 
+<br><br>
+
+<!-- 3D Skill Icons Grid (Logo Kotak-Kotak) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br><br>
+
+<!-- Shields Badges -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 <br>
