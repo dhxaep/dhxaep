@@ -107,7 +107,7 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 </td>
 <td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #1E1B4B;">
 
-<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="180" alt="Pixel Multitasker GIF" />
+<img src="https://media.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif" width="250" alt="Pixel Art Jeff GIF" style="max-width: 100%; height: auto;" />
 
 </td>
 </tr>
