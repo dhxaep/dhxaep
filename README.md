@@ -5,11 +5,6 @@
 
 <br><br>
 
-<!-- Animated Pixel Mascot -->
-<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="160" alt="Pixel Coder" />
-
-<br>
-
 <!-- Press Start 2P Pixel Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
 
@@ -133,11 +128,17 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <br>
 
-<!-- Dynamic Date Now Footer -->
+<!-- Dynamic Date Now & Anime Counter Footer -->
 <div align="center">
 
 <p><strong>DATE NOW</strong></p>
 
 ![DATE NOW](https://img.shields.io/badge/DATE_NOW-05_August_2026-00FF41?style=for-the-badge&logo=calendar&logoColor=black)
+
+<br><br>
+
+<a href="https://github.com/journey-ad/Moe-Counter">
+  <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Moe Counter" />
+</a>
 
 </div>
