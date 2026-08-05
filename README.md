@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Top Banner GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner GIF" style="border: 4px solid #000;" />
+<!-- Press Start 2P Pixel Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
 
 <br><br>
 
-<!-- Press Start 2P Pixel Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
+<!-- Top Banner GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner GIF" style="border: 4px solid #000;" />
 
 </div>
 
