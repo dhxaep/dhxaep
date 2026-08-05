@@ -1,31 +1,35 @@
 <div align="center">
 
-<video src="ge_gwr_video_mvp.mp4" width="100%" controls autoplay loop muted></video>
+<!-- Top Banner Video GIF -->
+<img src="./ge_gwr_video_mvp.gif" width="100%" style="border: 4px solid #000; border-radius: 0px;" alt="Dhafa Showcase" />
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=SYSTEM+BOOT...;LOADING+DHXAEP.EXE;WHOAMI%3F;>_+Dhafa+Achmad+Ghifari" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=SYSTEM+BOOT...;LOADING+DHXAEP.EXE;WHOAMI%3F;>_+Dhafa+Achmad+Ghifari" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<table width="100%" style="border: 4px solid #000; border-collapse: collapse;">
+<!-- About Terminal Box -->
+<table width="100%" style="border: 4px solid #000; border-collapse: collapse; background:#FFDE59;">
 <tr>
-<td style="border: 4px solid #000; padding: 16px; background:#FFDE59;">
+<td style="padding: 18px;">
 
 ```
-┌─────────────────────────────────────────┐
-│  root@dhxaep:~$ cat about.txt            │
-├─────────────────────────────────────────┤
-│  > Independent Developer                 │
-│  > Bot & Web Tooling Builder              │
-│  > AI Enthusiast / Cybersecurity Curious │
-│  > Currently: SMA -> University pipeline │
-│  > Target: Kecerdasan Artifisial, UI     │
-└─────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│  root@dhxaep:~$ cat about.txt                             │
+├───────────────────────────────────────────────────────────┤
+│  > Name       : Dhafa Achmad Ghifari                      │
+│  > Role       : Independent Developer & Bot Architect    │
+│  > Education  : S1 Informatika - UPN "Veteran" Jakarta    │
+│  > Field      : Software Engineering, AI & CyberSec       │
+│  > Status     : Building & Experimenting 24/7             │
+└───────────────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -40,6 +44,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PM2](https://img.shields.io/badge/PM2-000000?style=for-the-badge&logo=pm2&logoColor=2B037A)
@@ -52,23 +57,27 @@
 
 ## `>` CURRENTLY_RUNNING.log
 
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="60%" valign="top" style="border: 4px solid #000; padding: 16px; background:#7DE2FC;">
+<td width="65%" valign="top" style="border: 4px solid #000; padding: 18px; background:#7DE2FC;">
 
-**Artemis & Sherlock Bot Ecosystem**  
-Telegram + WhatsApp bots with economy systems, pet/gacha mechanics, canvas-rendered games (Three Card Monte w/ anti-cheat, Monopoly clone), and AI-powered receipt scanning. Multi-bot deployment on Pterodactyl via PM2.
+### ⚡ Artemis & Sherlock Bot Ecosystem
+Telegram & WhatsApp multi-bot deployment on Pterodactyl via PM2. Features in-game economy systems, pet/gacha mechanics, canvas-rendered games (Three Card Monte w/ anti-cheat, Monopoly clone), and AI-powered receipt scanning.
 
-**DHTools**  
-Vanilla JS multi-feature web toolkit — UTBK practice games + media downloaders.  
-[`dhgfrtools.netlify.app`](https://dhgfrtools.netlify.app)
+<br>
 
-**Hematin** `[building in the dark]`  
+### 🛠️ DHTools
+Vanilla JS multi-feature web toolkit — UTBK practice interactive mini-games + media downloader tools.  
+👉 [`dhgfrtools.netlify.app`](https://dhgfrtools.netlify.app)
+
+<br>
+
+### 🔒 Hematin `[building in the dark]`
 `> visibility: private`  
 `> status: cooking`
 
 </td>
-<td width="40%" valign="top" align="center" style="border: 4px solid #000; padding: 8px; background:#FF6B6B;">
+<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background:#FF6B6B;">
 
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="180"/>
 
@@ -83,7 +92,9 @@ Vanilla JS multi-feature web toolkit — UTBK practice games + media downloaders
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhxaep&show_icons=true&theme=radical&hide_border=true&border_radius=0&bg_color=0D1117&title_color=00FF41&icon_color=FFDE59&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhxaep&layout=compact&hide_border=true&border_radius=0&theme=radical&bg_color=0D1117&title_color=00FF41&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhxaep&layout=compact&hide_border=true&border_radius=0&theme=radical&bg_color=0D1117&text_color=ffffff" height="165"/>
+
+<br>
 
 <img src="https://streak-stats.demolab.com?user=dhxaep&theme=radical&hide_border=true&border_radius=0&background=0D1117&ring=00FF41&fire=FFDE59" height="165"/>
 
@@ -91,7 +102,7 @@ Vanilla JS multi-feature web toolkit — UTBK practice games + media downloaders
 
 <br>
 
-## `>` PLAY.gif — contribution graph, but it's a boss fight
+## `>` PLAY.gif — contribution graph game
 
 <div align="center">
 
@@ -99,7 +110,9 @@ Vanilla JS multi-feature web toolkit — UTBK practice games + media downloaders
 <img src="./gh-space-shooter.gif" width="600" alt="Space Shooter Game" />
 <!--END_SECTION:space-shooter-->
 
-<sub>generated by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a> — auto-updates daily via GitHub Action, see setup note below</sub>
+<br>
+
+<sub>generated by <a href="https://github.com/czl9707/gh-space-shooter">gh-space-shooter</a> — auto-updates daily via GitHub Action</sub>
 
 </div>
 
@@ -118,7 +131,9 @@ Vanilla JS multi-feature web toolkit — UTBK practice games + media downloaders
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+
+<br>
 
 <sub>`> connection terminated_`</sub>
 
