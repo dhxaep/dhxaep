@@ -133,7 +133,7 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhxaep&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=FFDE59&sideNums=00FF41&sideTitle=FFFFFF&dates=888888&hide_border=true" width="100%" alt="GitHub Battle Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhxaep&theme=dark&hide_border=true" width="100%" alt="GitHub Battle Stats" />
 
 </div>
 
