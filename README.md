@@ -133,6 +133,14 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <a href="https://dhtools.dhgfr.my.id"><img src="https://img.shields.io/badge/DHTools-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="https://portofolio.dhgfr.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
+<br>
+
+<!-- Visitor Count -->
+<div align="center">
+
+<p><strong>👁️ VISITOR COUNT</strong></p>
+
+<a href="https://github.com/journey-ad/Moe-Counter">
+  <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Visitor Count" />
+</a>
 </div>
-
-
