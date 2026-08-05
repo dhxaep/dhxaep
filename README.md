@@ -133,7 +133,7 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhxaep&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFDE59&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com/?user=dhxaep&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=FFDE59&sideNums=00FF41&sideTitle=FFFFFF&dates=888888&hide_border=true" width="100%" alt="GitHub Battle Stats" />
 
 </div>
 
