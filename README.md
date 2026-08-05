@@ -15,7 +15,7 @@
 <!-- Custom Styled Player Bio Card -->
 <table width="100%" style="border: 4px solid #000; border-collapse: collapse; background: #FFDE59;">
 <tr>
-<td style="padding: 20px; color: #000;">
+<td align="center" style="padding: 20px; color: #000;">
 
 <div align="center">
   <img src="https://img.shields.io/badge/PLAYER_PROFILE-DHXAEP-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
@@ -23,26 +23,26 @@
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; font-family: 'Courier New', monospace; font-weight: bold; color: #000;">
+<table width="100%" style="border-collapse: collapse; font-family: 'Courier New', monospace; font-weight: bold; color: #000; text-align: center;">
   <tr>
-    <td width="30%" style="padding: 8px; border-bottom: 2px solid #000;">👤 NAME</td>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">Dhafa Achmad Ghifari</td>
+    <td width="35%" align="center" style="padding: 10px; border-bottom: 2px solid #000;">👤 NAME</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Dhafa Achmad Ghifari</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">🎓 EDUCATION</td>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">S1 Informatika — UPN "Veteran" Jakarta</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🎓 EDUCATION</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">S1 Informatika — UPN "Veteran" Jakarta</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">🛠️ ROLE</td>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">Bot Architect & Full-Stack Developer</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🛠️ ROLE</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Bot Architect & Full-Stack Developer</td>
   </tr>
   <tr>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">🎯 FOCUS</td>
-    <td style="padding: 8px; border-bottom: 2px solid #000;">Software Engineering, AI & Cyber Security</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">🎯 FOCUS</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">Software Engineering, AI & Cyber Security</td>
   </tr>
   <tr>
-    <td style="padding: 8px;">⚡ STATUS</td>
-    <td style="padding: 8px;"><span style="background: #000; color: #00FF41; padding: 4px 10px;">● ONLINE & BUILDING 24/7</span></td>
+    <td align="center" style="padding: 10px;">⚡ STATUS</td>
+    <td align="center" style="padding: 10px;"><span style="background: #000; color: #00FF41; padding: 4px 10px;">● ONLINE & BUILDING 24/7</span></td>
   </tr>
 </table>
 
