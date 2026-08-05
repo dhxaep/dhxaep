@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Press Start 2P Pixel Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
+<!-- Top Mascot GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120" alt="Pixel Mascot Header" />
 
 <br><br>
 
-<!-- Top Banner GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner GIF" style="border: 4px solid #000;" />
+<!-- Press Start 2P Pixel Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
 
 </div>
 
@@ -100,9 +100,9 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 `> status: cooking in dark`
 
 </td>
-<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #1E1B4B;">
+<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #FF6B6B;">
 
-<img src="https://media.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif" width="180" alt="Pixel Art Giphy" />
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="180" alt="Pixel Hands GIF" />
 
 </td>
 </tr>
@@ -132,8 +132,12 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <br>
 
-<!-- Dynamic Date Now & Anime Counter Footer -->
+<!-- Custom Typing Terminal & DATE NOW Footer -->
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Terminal Typing GIF" />
+
+<br><br>
 
 <p><strong>DATE NOW</strong></p>
 
@@ -144,5 +148,9 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <a href="https://github.com/journey-ad/Moe-Counter">
   <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Moe Counter" />
 </a>
+
+<br><br>
+
+<sub><code>> connection terminated_</code></sub>
 
 </div>
