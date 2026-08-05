@@ -135,19 +135,4 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 </div>
 
-<br>
 
-<!-- Dynamic Date Now & Anime Moe Counter Footer -->
-<div align="center">
-
-<p><strong>DATE NOW</strong></p>
-
-![DATE NOW](https://img.shields.io/badge/DATE_NOW-05_August_2026-00FF41?style=for-the-badge&logo=calendar&logoColor=black)
-
-<br><br>
-
-<a href="https://github.com/journey-ad/Moe-Counter">
-  <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Moe Counter" />
-</a>
-
-</div>
