@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 1. GIF Garis Garis (Showcase GIF) -->
-<img src="./ge_gwr_video_mvp.gif" width="100%" alt="Showcase GIF" style="border: 4px solid #000;" />
+<!-- 1. Pixel Art Banner (GIF Garis Garis) -->
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff" width="100%" alt="Pixel Banner GIF" style="border: 4px solid #000;" />
 
 <br><br>
 
-<!-- 2. GIF Tangan Ngetik Keyboard (Mascot) -->
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120" alt="Pixel Mascot Header" />
+<!-- 2. Pixel Coder Mascot (GIF Tangan Ngetik Keyboard) -->
+<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="160" alt="Pixel Coder" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<!-- Custom Styled Player Bio Card -->
+<!-- Custom Styled Player Bio Card (Centered Page Container) -->
 <div align="center">
 
 <table width="100%" style="border: 4px solid #000; border-collapse: collapse; background: #FFDE59;">
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<!-- 3D Skill Icons Grid -->
+<!-- 3D Skill Icons Grid (4 Tech Stack Only) -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
 </a>
@@ -105,9 +105,9 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 `> status: cooking in dark`
 
 </td>
-<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #FF6B6B;">
+<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #1E1B4B;">
 
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="180" alt="Pixel Hands GIF" />
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="180" alt="Pixel Multitasker GIF" />
 
 </td>
 </tr>
@@ -137,12 +137,8 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <br>
 
-<!-- Custom Typing Terminal & DATE NOW Footer -->
+<!-- Dynamic Date Now & Anime Moe Counter Footer -->
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Terminal Typing GIF" />
-
-<br><br>
 
 <p><strong>DATE NOW</strong></p>
 
@@ -153,9 +149,5 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <a href="https://github.com/journey-ad/Moe-Counter">
   <img src="https://count.getloli.com/get/@dhxaep?theme=moebooru" alt="Moe Counter" />
 </a>
-
-<br><br>
-
-<sub><code>> connection terminated_</code></sub>
 
 </div>
