@@ -140,14 +140,6 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <p><strong>Visitor's Count</strong></p>
 
-<table style="border: 4px solid #000; border-collapse: collapse; background: #FFFFFF;">
-<tr>
-<td align="center" style="padding: 14px; background: #FFFFFF;">
-
-<img src="https://count.getloli.com/@dhxaep" alt="Visitor's Count" />
-
-</td>
-</tr>
-</table>
+<img src="https://count.getloli.com/@dhxaep?theme=moebooru&darkmode=0" alt="Visitor's Count" />
 
 </div>
