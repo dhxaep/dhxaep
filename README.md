@@ -44,22 +44,18 @@
 
 <div align="center">
 
-<!-- Interactive Glowing 3D Skill Icons Grid -->
+<!-- Glowing 3D Skill Icons for Node.js, Next.js, Python, Git -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,nextjs,py,express,react,tailwind,git,vscode,docker,linux,github,vercel&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 <br><br>
 
-<!-- Categorized High-Contrast Shields Badges -->
+<!-- High-Contrast Badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
