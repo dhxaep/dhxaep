@@ -137,7 +137,9 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <tr>
 <td align="center" style="padding: 15px;">
 
-<img src="https://ghchart.rshah.org/00FF41/dhxaep" width="100%" alt="dhxaep's GitHub Contribution Chart" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhxaep&theme=tokyo-night" width="100%" alt="dhxaep's GitHub Activity Graph" />
+</a>
 
 <br><br>
 
