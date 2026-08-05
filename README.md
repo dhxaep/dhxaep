@@ -86,13 +86,6 @@
 
 <br><br>
 
-<!-- 3D Skill Icons Grid (Logo Kotak-Kotak) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,py,git&theme=dark" alt="Tech Stack Icons" />
-</a>
-
-<br><br>
-
 <!-- Shields Badges -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
