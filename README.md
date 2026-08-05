@@ -1,21 +1,46 @@
 <div align="center">
 
-<!-- Top Banner Video GIF -->
-<img src="./ge_gwr_video_mvp.gif" width="100%" style="border: 4px solid #000;" alt="Dhafa Showcase" />
+<!-- Pixel Art Banner Header -->
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff" width="100%" alt="Cyberpunk Pixel Banner" style="border: 4px solid #000;" />
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100" />
+<!-- Animated Pixel Mascot -->
+<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="160" alt="Pixel Coder" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=SYSTEM+BOOT...;LOADING+DHXAEP.EXE;WHOAMI%3F;>_+Dhafa+Achmad+Ghifari" alt="Typing SVG" />
+<!-- Press Start 2P Pixel Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
 
 </div>
 
 <br>
 
-## `>` STACK.exe
+<!-- 8-Bit Player Bio Card -->
+<table width="100%" style="border: 4px solid #000; border-collapse: collapse; background: #121216;">
+<tr>
+<td style="padding: 20px; color: #00FF41; font-family: monospace;">
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│ [👾] PLAYER PROFILE : DHXAEP                              │
+├───────────────────────────────────────────────────────────┤
+│  > NAME       : Dhafa Achmad Ghifari                      │
+│  > GUILD      : S1 Informatika - UPN "Veteran" Jakarta    │
+│  > CLASS      : Bot Architect & Full-Stack Developer     │
+│  > QUESTS     : Web Tools, AI Systems, Cyber Security     │
+│  > STATUS     : [ONLINE] Leveling Up & Building 24/7      │
+└───────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `👾` TECH INVENTORY
 
 <div align="center">
 
@@ -32,31 +57,32 @@
 
 <br>
 
-## `>` CURRENTLY_RUNNING.log
+## `🎮` ACTIVE QUESTS & PROJECTS
 
 <table width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="65%" valign="top" style="border: 4px solid #000; padding: 18px; background:#7DE2FC;">
+<td width="65%" valign="top" style="border: 4px solid #000; padding: 18px; background: #0F172A; color: #F8FAFC;">
 
 ### ⚡ Artemis & Sherlock Bot Ecosystem
-Telegram & WhatsApp multi-bot deployment on Pterodactyl via PM2. Features in-game economy systems, pet/gacha mechanics, canvas-rendered games (Three Card Monte w/ anti-cheat, Monopoly clone), and AI-powered receipt scanning.
+Telegram & WhatsApp multi-bot ecosystem running on Pterodactyl via PM2. 
+Includes custom economy mechanics, pet/gacha systems, canvas-rendered games (*Three Card Monte w/ anti-cheat*, *Monopoly clone*), and AI receipt scanning.
 
 <br>
 
 ### 🛠️ DHTools
-Vanilla JS multi-feature web toolkit — UTBK practice interactive mini-games + media downloader tools.  
+Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platform media downloaders.  
 👉 [`dhgfrtools.netlify.app`](https://dhgfrtools.netlify.app)
 
 <br>
 
-### 🔒 Hematin `[building in the dark]`
+### 🔒 Hematin `[building in stealth]`
 `> visibility: private`  
-`> status: cooking`
+`> status: cooking in dark`
 
 </td>
-<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background:#FF6B6B;">
+<td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #1E1B4B;">
 
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="180"/>
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="180" alt="Pixel Multitasker" />
 
 </td>
 </tr>
@@ -64,7 +90,7 @@ Vanilla JS multi-feature web toolkit — UTBK practice interactive mini-games + 
 
 <br>
 
-## `>` STATS.bin
+## `📊` BATTLE STATS
 
 <div align="center">
 
@@ -74,7 +100,7 @@ Vanilla JS multi-feature web toolkit — UTBK practice interactive mini-games + 
 
 <br>
 
-## `>` CONNECT.sh
+## `📡` COMMUNICATOR
 
 <div align="center">
 
@@ -87,10 +113,10 @@ Vanilla JS multi-feature web toolkit — UTBK practice interactive mini-games + 
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+<img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="450" alt="Pixel Terminal HiTech Navigation" />
 
-<br>
+<br><br>
 
-<sub>`> connection terminated_`</sub>
+<sub>`> SYSTEM SHUTDOWN // GAME OVER`</sub>
 
 </div>
