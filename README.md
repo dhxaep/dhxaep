@@ -13,6 +13,8 @@
 <br>
 
 <!-- Custom Styled Player Bio Card -->
+<div align="center">
+
 <table width="100%" style="border: 4px solid #000; border-collapse: collapse; background: #FFDE59;">
 <tr>
 <td align="center" style="padding: 20px; color: #000;">
@@ -49,6 +51,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
