@@ -133,7 +133,21 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhxaep&theme=dark&hide_border=true" width="100%" alt="GitHub Battle Stats" />
+<table width="100%" style="border: 4px solid #000; border-collapse: collapse; background: #0D1117;">
+<tr>
+<td align="center" style="padding: 15px;">
+
+<img src="https://ghchart.rshah.org/00FF41/dhxaep" width="100%" alt="dhxaep's GitHub Contribution Chart" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/dhxaep?label=FOLLOWERS&style=for-the-badge&color=00FF41&logo=github&logoColor=black" />
+<img src="https://img.shields.io/github/stars/dhxaep?label=STARS&style=for-the-badge&color=FFDE59&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
