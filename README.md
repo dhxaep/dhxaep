@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- Top Mascot GIF -->
+<!-- 1. GIF Garis Garis (Showcase GIF) -->
+<img src="./ge_gwr_video_mvp.gif" width="100%" alt="Showcase GIF" style="border: 4px solid #000;" />
+
+<br><br>
+
+<!-- 2. GIF Tangan Ngetik Keyboard (Mascot) -->
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120" alt="Pixel Mascot Header" />
 
 <br><br>
 
-<!-- Press Start 2P Pixel Typing SVG Header -->
+<!-- 3. Press Start 2P Pixel Typing SVG Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=60&lines=PRESS+START...;PLAYER%3A+DHXAEP.EXE;S1+INFORMATIKA+@+UPNVJ;BUILDING+BOTS+%26+WEB+TOOLS" alt="Pixel Typing SVG" />
 
 </div>
