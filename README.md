@@ -25,7 +25,7 @@
 <td align="center" style="padding: 20px; color: #000;">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%A0%80%E2%A0%80PLAYER_PROFILE%E2%A0%80%E2%A0%80-000000?style=for-the-badge&logo=github&logoColor=00FF41" height="40" />
+  <img src="https://img.shields.io/badge/PLAYER_PROFILE-000000?style=for-the-badge&logo=github&logoColor=00FF41" width="400" />
 </div>
 
 <br>
