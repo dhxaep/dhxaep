@@ -25,7 +25,7 @@
 <td align="center" style="padding: 20px; color: #000;">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PLAYER_PROFILE-DHXAEP-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PLAYER_PROFILE-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@
     <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">
       <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="22" valign="middle" /> EDUCATION
     </td>
-    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">S1 Informatika — UPN "Veteran" Jakarta</td>
+    <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">S1 Informatika || UPN "Veteran" Jakarta</td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border-bottom: 2px solid #000;">
