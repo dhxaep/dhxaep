@@ -102,19 +102,21 @@
 <tr>
 <td width="65%" valign="top" style="border: 4px solid #000; padding: 18px; background: #0F172A; color: #F8FAFC;">
 
-### ⚡ Artemis & Sherlock Bot Ecosystem
-Telegram & WhatsApp multi-bot ecosystem running on Pterodactyl via PM2. 
-Includes custom economy mechanics, pet/gacha systems, canvas-rendered games (*Three Card Monte w/ anti-cheat*, *Monopoly clone*), and AI receipt scanning.
+### <img src="https://cdn-icons-gif.flaticon.com/6844/6844410.gif" width="26" valign="middle" /> Artemis & Sherlock Bot Ecosystem
+Telegram & WhatsApp multi-bot ecosystem.  
+Includes custom economy mechanics, pet/gacha systems, canvas-rendered games (*Three Card Monte w/ anti-cheat*, *Monopoly clone*), AI receipt scanning, and **SherlockBot** for location tracking & photo capture via user-clicked links.  
+👉 Access: [`bot.dhgfr.my.id`](https://bot.dhgfr.my.id) || [`portofolio.dhgfr.my.id`](https://portofolio.dhgfr.my.id)
 
 <br>
 
-### 🛠️ DHTools
+### <img src="https://cdn-icons-gif.flaticon.com/8629/8629195.gif" width="26" valign="middle" /> DHTools
 Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platform media downloaders.  
 👉 [`dhtools.dhgfr.my.id`](https://dhtools.dhgfr.my.id)
 
 <br>
 
-### 🔒 Hematin `[building in stealth]`
+### <img src="https://cdn-icons-gif.flaticon.com/8112/8112939.gif" width="26" valign="middle" /> Hematin `[building in stealth]`
+👉 [`hematin.dhgfr.my.id`](https://hematin.dhgfr.my.id)  
 `> visibility: private`  
 `> status: cooking in dark`
 
