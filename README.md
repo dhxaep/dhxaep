@@ -116,9 +116,8 @@ Vanilla JS web toolkit featuring interactive UTBK practice games + multi-platfor
 <br>
 
 ### <img src="https://cdn-icons-gif.flaticon.com/8112/8112939.gif" width="26" valign="middle" /> Hematin `[building in stealth]`
-👉 [`hematin.dhgfr.my.id`](https://hematin.dhgfr.my.id)  
-`> visibility: private`  
-`> status: cooking in dark`
+Smart personal finance & expense management app featuring AI receipt scanning to automatically log and track expenses.  
+👉 [`hematin.dhgfr.my.id`](https://hematin.dhgfr.my.id)
 
 </td>
 <td width="35%" valign="middle" align="center" style="border: 4px solid #000; padding: 12px; background: #1E1B4B;">
